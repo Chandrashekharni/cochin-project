@@ -1,0 +1,149 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+.nav-bar{
+  height:100px;
+  margin: 5px;
+  background-color: cadetblue;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.contacte-img{
+  height:  100px;
+  width:  100px;
+}
+#logo{
+  height: 95px;
+  width: 80%;
+  margin-left: 30px;
+
+}
+#title{
+  color: brown;
+  font-size: 18px;
+}
+#Login{
+  text-decoration: none;
+}
+#ad{
+  font-size: 14px;
+}
+.nav-sec {
+ 
+  text-align: center;
+  height: 70px; 
+  font-size: 20px;
+  background-color: aqua;
+ 
+
+}
+.subject{
+  
+  padding-left: 20px; 
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+.box{
+  height: 340px;
+  width: 50%;
+  background-color: #01492a38;
+}
+.box1 a{
+  color: rgb(230, 14, 129);
+
+}
+.con-img{
+  height: 330px;
+  width: 10%;
+}
+.set{
+      height: 50%;
+}
+
+  .subject a{
+    list-style: none;
+    text-decoration: none;
+  }
+
+#contact {
+  padding: 5rem 0;
+  background: rgb(226, 226, 226);
+}
+
+.contact-container {
+  display: flex;
+  background: #fff;
+}
+
+.contact-img {
+  width: 50%;
+}
+
+.contact-img img {
+  display: block;
+  height: 400px;
+  width: 100%;
+  object-position: center;
+  object-fit: cover;
+}
+
+.form-container {
+  padding: 1rem;
+  width: 50%;
+  margin: auto;
+}
+
+.form-container input {
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  padding: 1rem 0;
+  box-shadow: none;
+  outline: none;
+  margin-bottom: 1rem;
+  color: #444;
+  font-weight: 500;
+}
+
+.form-container textarea {
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  color: #444;
+  outline: none;
+  padding: 1rem 0;
+  resize: none;
+}
+
+.form-container h2 {
+  font-size: 2.7rem;
+  font-weight: 500;
+  color: #444;
+  margin-bottom: 1rem;
+  margin-top: -1.2rem;
+}
+
+.form-container a {
+  font-size: 1.3rem;
+  text-decoration: none;
+
+}
+
+#footer h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  padding: 2.6rem;
+  font-weight: 500;
+  color: #fff;
+  background: rgba(99, 75, 2, 0.796);
+}
+
